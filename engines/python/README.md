@@ -35,7 +35,7 @@ You can pull the Python engine from the central Maven repository by including th
 <dependency>
     <groupId>ai.djl.python</groupId>
     <artifactId>python</artifactId>
-    <version>0.30.0</version>
+    <version>0.28.0</version>
     <scope>runtime</scope>
 </dependency>
 ```
